@@ -1,0 +1,9 @@
+
+local variable 'title' referenced before assignment
+local variable 'title' referenced before assignment
+local variable 'title' referenced before assignment
+local variable 'title' referenced before assignment
+[Errno 22] Invalid argument: 'E:\\資策會-DB106\\專題\\Pixnet\\All\\桃園美食/3\xa0\xa0「桃園美食越式」月香小館榮民店鄰近元智大學平價道地的越南料理桃園私房推薦美食\n\nFOLLOWUS.txt'
+local variable 'title' referenced before assignment
+local variable 'title' referenced before assignment
+local variable 'title' referenced before assignment
